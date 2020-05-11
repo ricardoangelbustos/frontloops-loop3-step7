@@ -192,6 +192,7 @@ body{
 }
 .info button:hover{
     transform: translateY(-10px);
+    cursor: pointer;
 }
 .standar{
     width: 25%;
